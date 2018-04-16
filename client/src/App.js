@@ -13,7 +13,7 @@ class App extends Component {
           </header>
           <Table></Table>
         </div>
-    );
+    )
   }
 }
 

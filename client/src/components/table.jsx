@@ -49,4 +49,5 @@ export default class Table extends Component {
       </div>
     )
   }
-};
+}
+data: data.data
